@@ -1,6 +1,6 @@
-### Hi there 👋, My name is Nick. 
-![giphy](https://github.com/nick-register/nick-register/assets/138704535/657a75a2-ba59-45cd-ba32-a372549e581d)
-#### I'm an **Aspiring** Full-Stack Developer
+# Hi there 👋, My name is Nick. 
+<img src=![giphy](https://github.com/nick-register/nick-register/assets/138704535/657a75a2-ba59-45cd-ba32-a372549e581d) height=200 width=200>
+## I'm an **Aspiring** Full-Stack Developer
 I am switching careers to software development because I enjoy tough challenges and in-depth problem-solving. Nothing quite scratches that itch like programming does!
 
 ## Skills and Experience:
