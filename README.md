@@ -11,9 +11,9 @@ I am switching careers to software development because I enjoy tough challenges 
 * 🐍 Python
 
 ## Projects:
-In this repo is my freeCodeCamp Project Portfolio
-              🔭 Check it out!
-https://github.com/nick-register/nick-register.github.io
+This is my Project Portfolio
+      🔭 Check it out!
+    nick-register.github.io
 
 
 ## About me:
