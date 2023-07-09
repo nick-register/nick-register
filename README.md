@@ -3,7 +3,7 @@
 
 
 
-## I'm an **Aspiring** Full-Stack Developer
+## I'm an ***Aspiring*** Full-Stack Developer
 I am switching careers to software development because I enjoy tough challenges and in-depth problem-solving. Nothing quite scratches that itch like programming does!
 
 ## Skills and Experience:
@@ -11,9 +11,10 @@ I am switching careers to software development because I enjoy tough challenges 
 * 🐍 Python
 
 ## Projects:
-This is my Project Portfolio
+This is my ***Project Portfolio***
       🔭 Check it out!
-    nick-register.github.io
+
+[Link to Portfolio Website](https://nick-register.github.io)
 
 
 ## About me:
