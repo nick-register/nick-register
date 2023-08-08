@@ -7,7 +7,7 @@
 I am switching careers to software development because I enjoy tough challenges and in-depth problem-solving. Nothing quite scratches that itch like programming does!
 
 ## Skills and Experience:
-* 💻 HTML / CSS / JS 
+* 💻 HTML / CSS / JS / React 
 * 🐍 Python
 
 ## Projects:
@@ -19,12 +19,12 @@ This is my ***Project Portfolio***
 
 ## About me:
 
-- 🔭 I’m currently working on the fundamentals of coding through the modules on freeCodeCamp 
-- 🌱 I’m currently learning Javascript and Data Structures 
-- 👯 I’m looking to collaborate on Anything and Everything 
-- 🤔 I’m looking for help with landing my first job as a developer 
+- 🔭 I’m currently applying to Internships and Computer Science programs hoping to break into Software Development
+- 🌱 I’m currently learning Javascript and React
+- 👯 I’m looking to collaborate on anything and everything 
+- 🤔 I’m looking for a mentor to help my career trajectory
 - 💬 Ask me about sports, dad stuff, or gaming 
-- 📫 How to reach me: LinkedIn or email 
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/nick-register/) or email me at nick.register1@gmail.com
 
 ## Contact me
 
