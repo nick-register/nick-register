@@ -4,7 +4,8 @@
 
 
 ## I'm an ***Aspiring*** Full-Stack Developer
-I am switching careers to software development because I enjoy tough challenges and in-depth problem-solving. Nothing quite scratches that itch like programming does!
+
+I am switching careers to software development because I enjoy tough challenges and in-depth problem-solving.
 
 ## Skills and Experience:
 * 💻 HTML / CSS / JS / React 
@@ -15,11 +16,11 @@ This is my ***Project Portfolio***
       🔭 Check it out!
 
 [Link to Portfolio Website](https://nick-register.github.io)
-
+Updates to projects may not be committed to Github regularly as my main focus has shifted to schooling. 
 
 ## About me:
 
-- 🔭 I’m currently applying to Internships and Computer Science programs hoping to break into Software Development
+- 🔭 I was recently accepted into Oregon States Computer Science program
 - 🌱 I’m currently learning Javascript and React
 - 👯 I’m looking to collaborate on anything and everything 
 - 🤔 I’m looking for a mentor to help my career trajectory
