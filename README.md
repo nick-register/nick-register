@@ -16,7 +16,8 @@ This is my ***Project Portfolio***
       🔭 Check it out!
 
 [Link to Portfolio Website](https://nick-register.github.io)
-Updates to projects may not be committed to Github regularly as my main focus has shifted to schooling. 
+
+***Updates to projects may not be committed to Github regularly as my main focus has shifted to schooling.***
 
 ## About me:
 
