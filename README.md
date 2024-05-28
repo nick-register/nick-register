@@ -1,15 +1,13 @@
 # Hi there 👋, My name is Nick. 
-![giphy](https://github.com/nick-register/nick-register/assets/138704535/a7bb1eb5-519c-4768-a1c4-22da83eaa19b)
+![giphy]()
 
+## I'm an ***Aspiring*** IT professional interested in networking, data, and llms. 
 
-
-## I'm an ***Aspiring*** Full-Stack Developer
-
-I am switching careers to software development because I enjoy tough challenges and in-depth problem-solving.
+I am shifting careers from a military background to IT. Open to contributing to open-source development projects.
 
 ## Skills and Experience:
-* 💻 HTML / CSS / JS / React 
 * 🐍 Python
+* 💻 HTML / CSS / JS / React 
 
 ## Projects:
 This is my ***Project Portfolio***
@@ -22,9 +20,9 @@ This is my ***Project Portfolio***
 ## About me:
 
 - 🔭 I was recently accepted into Oregon States Computer Science program
-- 🌱 I’m currently learning Javascript and React
-- 👯 I’m looking to collaborate on anything and everything 
-- 🤔 I’m looking for a mentor to help my career trajectory
+- 🌱 I’m currently interning at Red Hat as an IT Analyst.
+- 👯 I’m looking to collaborate on projects dealing with NLP and LLMs.
+- 🤔 I’m looking for new challenges and ways to learn.
 - 💬 Ask me about sports, dad stuff, or gaming 
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/nick-register/) or email me at nick.register1@gmail.com
 
